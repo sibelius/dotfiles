@@ -1,0 +1,7 @@
+# PyQt4
+ln -s /usr/local/lib/python3.4/site-packages/PyQt4 ~/.virtualenvs/lstd/lib/python3.4/site-packages/PyQt4
+
+# sip
+ln -s /usr/local/Cellar/sip/4.16.5/lib/python3.4/site-packages/sip.so ~/.virtualenvs/lstd/lib/python3.4/site-packages/sip.so
+ln -s /usr/local/Cellar/sip/4.16.5/lib/python3.4/site-packages/sipconfig.py ~/.virtualenvs/lstd/lib/python3.4/site-packages/sipconfig.py
+ln -s /usr/local/Cellar/sip/4.16.5/lib/python3.4/site-packages/sipdistutils.py ~/.virtualenvs/lstd/lib/python3.4/site-packages/sipdistutils.py
